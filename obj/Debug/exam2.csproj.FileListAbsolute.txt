@@ -10,3 +10,9 @@ C:\Documents\Visual Studio 2015\Repos\exam2\exam2\obj\Debug\exam2.pdb
 C:\Documents\Visual Studio 2015\Repos\exam2\bin\Debug\exam2.exe.config
 C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.exe
 C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.pdb
+C:\Documents\Visual Studio 2015\Repos\exam2\bin\Debug\exam2.exe
+C:\Documents\Visual Studio 2015\Repos\exam2\bin\Debug\exam2.pdb
+C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.FormMain.resources
+C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.Properties.Resources.resources
+C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.csproj.GenerateResource.Cache

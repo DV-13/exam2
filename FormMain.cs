@@ -24,7 +24,7 @@ namespace exam2
 
 		private void button2_Click(object sender, EventArgs e)
 		{
-			CreateForm(1);
+			CreateForm(2);
 		}
 
 		private void button3_Click(object sender, EventArgs e)

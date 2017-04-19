@@ -10,7 +10,7 @@ namespace exam2
 	partial class FormMain
 	{
 		ScrollBar hScrollBar1;
-		public void CreateForm(int number)
+		public void CreateForm(int i)
 		{
 			if(!Controls.Contains(hScrollBar1))
 			{
@@ -20,7 +20,7 @@ namespace exam2
 				// hScrollBar1
 				hScrollBar1.Location = new System.Drawing.Point(4, 4);
 				hScrollBar1.Name = "hScrollBar1";
-				hScrollBar1.Size = new System.Drawing.Size(80, 17);
+				hScrollBar1.Size = new System.Drawing.Size(180, 17);
 				hScrollBar1.TabIndex = 0;
 
 				panel1.Controls.Add(hScrollBar1);

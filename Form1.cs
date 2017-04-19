@@ -18,7 +18,7 @@ namespace exam2
 				SuspendLayout();
 
 				// button5
-				button5.Location = new System.Drawing.Point(5, 5);
+				button5.Location = new System.Drawing.Point(5, 25);
 				button5.Name = "button5";
 				button5.Size = new System.Drawing.Size(75, 23);
 				button5.TabIndex = 0;

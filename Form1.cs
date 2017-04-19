@@ -24,10 +24,16 @@ namespace exam2
 				button5.TabIndex = 0;
 				button5.Text = "button5";
 				button5.UseVisualStyleBackColor = true;
+				button5.Click += new EventHandler(button5_Click);
 
 				panel1.Controls.Add(button5);
 				ResumeLayout(false);
 			}
+		}
+
+		private void button5_Click(object sender, EventArgs e)
+		{
+			MessageBox.Show("Text", "message", MessageBoxButtons.OK);
 		}
 	}
 }

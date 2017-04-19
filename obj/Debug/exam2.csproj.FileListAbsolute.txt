@@ -7,3 +7,6 @@ c:\users\gjhne\documents\visual studio 2015\Projects\exam2\exam2\obj\Debug\exam2
 c:\users\gjhne\documents\visual studio 2015\Projects\exam2\exam2\obj\Debug\exam2.exe
 c:\users\gjhne\documents\visual studio 2015\Projects\exam2\exam2\obj\Debug\exam2.pdb
 c:\users\gjhne\documents\visual studio 2015\Projects\exam2\exam2\obj\Debug\exam2.Form1.resources
+C:\Documents\Visual Studio 2015\Repos\exam2\bin\Debug\exam2.exe.config
+C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.exe
+C:\Documents\Visual Studio 2015\Repos\exam2\obj\Debug\exam2.pdb
